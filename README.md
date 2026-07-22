@@ -62,4 +62,8 @@ One-time database setup
 See ridehailing_schema.sql. Create a MySQL database in XAMPP/phpMyAdmin and run that script to create the tables. Update src/main/java/com/ridehailing/session/DatabaseConnection.java if your MySQL host, database name, or credentials differ.
 
 How to run
-Open in IntelliJ as a Maven project → Maven tab → Plugins → javafx → javafx:run, or right-click Launcher.java → Run.
+Open in IntelliJ as a Maven project → Maven tab → Plugins → javafx → javafx:run, or right-click Launcher.java → Run. 
+<img width="593" height="313" alt="image" src="https://github.com/user-attachments/assets/67ae3f69-5265-49fe-8345-a1d7f38cb7bc" />
+<img width="640" height="320" alt="image" src="https://github.com/user-attachments/assets/0f8cc969-f9fa-4701-822e-29ed878f3648" />
+<img width="592" height="314" alt="image" src="https://github.com/user-attachments/assets/346e8be2-d038-4c01-997a-e0f2fb031b9c" />
+
